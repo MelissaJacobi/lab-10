@@ -1,0 +1,21 @@
+.form {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 0 2rem;
+}
+
+label {
+    border: 1px solid black;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 25%;
+    height: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.topTen {
+    margin-right: 6rem;
+}
